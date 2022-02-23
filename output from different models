@@ -1,0 +1,13 @@
+Model o/p:
+
+1. Decision Tree Re:
+Mean: 4.339430638853376
+Standard Deviation 0.8056463993741211
+
+2. Linear Regression
+Mean: 5.02587679395281
+Standard Deviation 1.060303975681347
+
+3. Random Forest Regressor:
+Mean: 3.383119807210597
+Standard Deviation 0.7398358042116346
